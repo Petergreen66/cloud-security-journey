@@ -20,4 +20,14 @@ February 2026
 
 ## Progress Log
 - Day 0: Laptop setup, WSL2, Docker, GPU drivers
-- Day 1: Linux and networking basics (in progress)
+- Day 1: Linux and networking basics
+- pwd - print working directory
+ls - list
+la - long format, all files
+cd - change directory
+mkdir - make directory
+echo - print or write
+cat - read
+rm - delete
+cd .. go back
+
